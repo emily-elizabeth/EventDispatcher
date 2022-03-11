@@ -1,5 +1,5 @@
 # EventDispatcher
- Dispatch internal notifications
+ A notification dispatch mechanism that enables the broadcast of information to registered observers.
 
 ## Add a new observer
  EventDispatcher.AddObserver _observer, notificationName_  
